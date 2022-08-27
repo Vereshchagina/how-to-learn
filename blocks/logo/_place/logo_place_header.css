@@ -1,10 +1,7 @@
 .logo_place_header {
-    height: 32px;
-    width: 228px;
-    background-size: contain;
-    position: absolute;
-    top: 30px;
-    left: 64px;
-    background-image: url(../../../images/logo/logo_place_header.svg);
-    z-index: 3;
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  background-image: url(../../../images/logo/logo_place_header.svg);
+  z-index: 3;
   }

@@ -12,6 +12,7 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 
 /*Импорты для блока logo*/
+@import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 
@@ -29,10 +30,10 @@
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../blocks/two-columns/__span-accent/);
+@import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
 /*Импорт для блока techniques*/
-@import url(..//blocks/techniques/techniques.css);
+@import url(../blocks/techniques/techniques.css);
 
 /*Импортs для блока section-title*/
 @import url(../blocks/section-title/section-title.css);
@@ -102,6 +103,7 @@
 /*Импорты для блока footer*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_social.css);
